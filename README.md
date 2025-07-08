@@ -6,6 +6,7 @@ I took 2,600,00 steps in 2024, I've walked significantly less in the first quart
 | ------------- | ------------- |
 |5/1/2024|Updated step count for April|
 |6/2/2025|Updated step count for May|
+|7/8/2025|Updated step count for June|
 
 ### Programs Used ###
   - Excel for data

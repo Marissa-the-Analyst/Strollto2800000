@@ -11,6 +11,10 @@ I took 2,600,00 steps in 2024, I've walked significantly less in the first quart
 |9/1/2025|Updated step count for August|
 |11/21/2025|Updated step count for Sep-Oct|
 |12/18/2025|Updated step count for Nov|
+|1/5/2026|Updated step count for Dec|
+
+### Challenge Concluded! ###
+This challenge is over! I wrote a LinkedIn article [here](https://www.linkedin.com/pulse/stroll-2800000-2025-conclusion-marissa-nash-1tfse/?trackingId=4ouQrPGyQ2eU1fe2%2FymCBA%3D%3D) detailing the more personal side of what I learned during it. It's a shame to be so close to hitting my goal, but I learned a lot about myself and updating data doing it! Give it a read and thanks for following :)!
 
 ### Programs Used ###
   - Excel for data
